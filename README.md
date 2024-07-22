@@ -1,16 +1,28 @@
 ## Hi there 👋
+About Me
+Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find out, I'm a back-end developer. I've had goals since I was child. The goals that keep me to develop myself and be the best of the best. I'm growing and actually interesting in backend and frontend technologies. As my closed friends said, Sepehr doesn't know fatigue, he is hardworking for his plans and in a word he's fighter. That's the whole point. Here's a bit more about me:
 
-<!--
-**SepehrNorouzi7/SepehrNorouzi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
+ - Languages:
+    - Python
+    - C++
+    - Java
+    - HTML
+    - CSS
+    - JavaScript
+ - Frameworks:
+    - Django
+      
+Interests
+ - Driving
+ - Reading
+ - Climbing
+ - Listening Music
+ - Flying as a pilot! (That's my love for ever)
+ - Painting Fighter jets
 
-Here are some ideas to get you started:
+Highlights
+ - Backend Developer
+ - Computer Engineering Student at Kharazmi University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Resume
