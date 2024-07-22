@@ -1,5 +1,5 @@
 ## Hi there 👋
-About Me
+## About Me
 Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find out, I'm a back-end developer. I've had goals since I was child. The goals that keep me to develop myself and be the best of the best. I'm growing and actually interesting in backend and frontend technologies. As my closed friends said, Sepehr doesn't know fatigue, he is hardworking for his plans and in a word he's fighter. That's the whole point. Here's a bit more about me:
 
 ## Skills
@@ -26,3 +26,8 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
  - Computer Engineering Student at Kharazmi University
 
 ## Resume
+
+## Connect with Me
+ - https://www.linkedin.com/in/sepehrnorouzi7
+ - https://www.instagram.com/sepehrnorouzi7
+ - sepehrnorouzi07@gmail.com
