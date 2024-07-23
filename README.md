@@ -4,7 +4,7 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 
 ## Skills
  - Languages:
-    - [Python](https://badgen.net/#static/Python/Expert/yellow)
+    - https://badgen.net/#static/Python/Expert/yellow
     - [C++](https://badgen.net/#static/C++/Intermediate/blue)
     - [Java](https://badgen.net/#static/Java/Intermediate/red)
     - [HTML](https://badgen.net/#static/HTML/Intermediate/orange)
