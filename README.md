@@ -4,20 +4,19 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 
 ## Skills
  - Languages:
-    - Python
-    - C++
-    - Java
-    - HTML
-    - CSS
-    - JavaScript
+    - [Python](https://badgen.net/#static/Python/Expert/yellow)
+    - [C++](https://badgen.net/#static/C++/Intermediate/blue)
+    - [Java](https://badgen.net/#static/Java/Intermediate/red)
+    - [HTML](https://badgen.net/#static/HTML/Intermediate/orange)
+    - [CSS](https://badgen.net/#static/CSS/Intermediate/cyan)
+    - [JavaScript](https://badgen.net/#static/JavaScript/Intermediate/yellow)
  - Frameworks:
-    - Django
+    - [Django](https://badgen.net/#static/Django/Intermediate/green)
       
 ## Interests
  - Driving
  - Reading
  - Climbing
- - Listening Music
  - Flying as a pilot! (That's my love for ever)
  - Painting 
 
@@ -28,6 +27,6 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 ## Resume
 
 ## Connect with Me
+sepehrnorouzi07@gmail.com
  - https://www.instagram.com/sepehrnorouzi7
- - sepehrnorouzi07@gmail.com
- - [![LinkedIn](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/li.svg)](https://www.linkedin.com/in/sepehrnorouzi7) 
+ - <a href=”https://www.linkedin.com/in/sepehrnorouzi7/"><img align=”left” src=”https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
