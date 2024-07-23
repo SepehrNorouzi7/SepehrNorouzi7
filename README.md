@@ -4,14 +4,14 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 
 ## Skills
  - Languages:
-    - https://badgen.net/#static/Python/Expert/yellow
-    - [C++](https://badgen.net/#static/C++/Intermediate/blue)
-    - [Java](https://badgen.net/#static/Java/Intermediate/red)
-    - [HTML](https://badgen.net/#static/HTML/Intermediate/orange)
-    - [CSS](https://badgen.net/#static/CSS/Intermediate/cyan)
-    - [JavaScript](https://badgen.net/#static/JavaScript/Intermediate/yellow)
+    - ![Python](https://badgen.net/#static/Python/Expert/yellow)
+    - ![C++](https://badgen.net/#static/C++/Intermediate/blue)
+    - ![Java](https://badgen.net/#static/Java/Intermediate/red)
+    - ![HTML](https://badgen.net/#static/HTML/Intermediate/orange)
+    - ![CSS](https://badgen.net/#static/CSS/Intermediate/cyan)
+    - ![JavaScript](https://badgen.net/#static/JavaScript/Intermediate/yellow)
  - Frameworks:
-    - [Django](https://badgen.net/#static/Django/Intermediate/green)
+    - ![Django](https://badgen.net/#static/Django/Intermediate/green)
       
 ## Interests
  - Driving
@@ -27,6 +27,6 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 ## Resume
 
 ## Connect with Me
-sepehrnorouzi07@gmail.com
- - https://www.instagram.com/sepehrnorouzi7
- - <a href=”https://www.linkedin.com/in/sepehrnorouzi7/"><img align=”left” src=”https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=”icon | LinkedIn” width=”21px”/></a>
+a href="https://www.linkedin.com/in/sepehrnorouzi7/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/sepehrnorouzi7"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://sepehrnorouzi7.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
