@@ -27,5 +27,6 @@ Hello! I'm Sepehr "Maverick" Norouzi. Maverick is my call sign! As you'll find o
 ## Resume
 
 ## Connect with Me
+<a href="https://t.me/SepehrNorouzi7/"><img align="left" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sepehrnorouzi7/"><img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/sepehrnorouzi7"><img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
