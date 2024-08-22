@@ -30,7 +30,8 @@ Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find
  - Computer Engineering Student at Kharazmi University <a href="https://khu.ac.ir/"><img align="right" src="https://khu.ac.ir/templates/tmpl_modern01/images/main_logo.png" width="25px"/></a>
 
 ## Resume
-
+ - <a href="https://sepehrnorouzi7.github.io">My Resume</a>
+ 
 ## GitHub Stats 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SepehrNorouzi7)](https://github.com/SepehrNorouzi7)
 
