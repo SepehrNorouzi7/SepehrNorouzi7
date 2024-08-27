@@ -27,7 +27,8 @@ Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find
 
 ## Highlights
  - Backend Developer
- - Computer Engineering Student at Kharazmi University <a href="https://khu.ac.ir/"><img align="right" src="https://khu.ac.ir/templates/tmpl_modern01/images/main_logo.png" width="25px"/></a>
+ - Artificial Intelligence Student at Kharazmi University
+ - Bachelor's degree of Computer Engineering at Kharazmi University <a href="https://khu.ac.ir/"><img align="right" src="https://khu.ac.ir/templates/tmpl_modern01/images/main_logo.png" width="25px"/></a>
 
 ## Resume
  - <a href="https://sepehrnorouzi7.github.io">My Resume</a>
