@@ -2,7 +2,11 @@
 <img align="center" src="https://github.com/SepehrNorouzi7/SepehrNorouzi7/blob/main/Maverick.jpg" width="150px"/>
 
 ## About Me
-Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find out, I'm a back-end developer. I've had goals since I was a child. These goals keep me developing myself and striving to be the best of the best. I'm growing and actually interested in both backend and frontend technologies. As my close friends say, "Sepehr doesn't know fatigue; he's hardworking and determined to achieve his plans. In a word, he's a fighter." That's the whole point. Here's a bit more about me:
+I'm Sepehr "Maverick" Norouzi. Yep, "Maverick" is my call sign! As you'll find out, I'm a backend developer. I've had goals since I was a child. These goals keep me developing myself and striving to be the best of the best. I'm growing and actually interested in backend technologies and AI. As my close friends say, "Sepehr doesn't know fatigue; he's hardworking and determined to achieve his plans. In a word, he's a fighter." That's the whole point.
+
+I'm always on time and eager to learn new stuff.
+
+Here's to always pushing forward and exploring new horizons! 🚀. Here's a bit more about me:
 
 ---
 
@@ -16,15 +20,10 @@ Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find
 ### 🚀 Frameworks
 - ![](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)
 - ![](https://img.shields.io/badge/Django%20REST-%23092E20.svg?logo=django&logoColor=white)
-- ![](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
-- ![](https://img.shields.io/badge/React_Native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 
 ### 🔧 Tools
 - ![](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)
 - ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
-- ![](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
-- ![](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
-- ![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
 ### 📚 Libraries
 - ![](https://img.shields.io/badge/NumPy-%23092E20.svg?logo=numpy&logoColor=white)
@@ -68,11 +67,6 @@ Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find
 
 ---
 
-## 📄 Resume
-- [**My Resume**](https://sepehrnorouzi7.github.io)
-
----
-
 ## 📫 Connect with Me
 <p align="center">
   <a href="mailto:sepehrnorouzi07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/></a>
@@ -81,6 +75,7 @@ Hello! I'm Sepehr "Maverick" Norouzi. "Maverick" is my call sign! As you'll find
   <a href="https://x.com/SepehrNorouzi7"><img src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/></a>
   <a href="https://instagram.com/sepehrnorouzi7"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
   <a href="https://medium.com/@sepehrnorouzi7"><img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/sepehrnorouzi07"><img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?logo=kaggle&logoColor=white"/></a>
 </p>
 
 ---
